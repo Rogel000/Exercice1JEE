@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #4b4343;
+    color: white;
+}
+
+.liens {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+}
+
+.liens :visited {
+    color: white;
+
+}
+
+.liens a {
+    text-decoration: none;
+    margin: 50px;
+}

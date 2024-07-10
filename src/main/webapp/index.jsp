@@ -3,15 +3,17 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<h1><%= "Hello World!" %>
+<h1><%= "Hello!" %>
 </h1>
 <br/>
-
-<a href="text">Servlet text</a> <br/>
-<a href="html">Hello Html</a> <br/>
-<a href="jsp">Hello Jsp</a>
+<div class="liens">
+<a href="text">Servlet text</a>
+<a href="html">Servlet Html</a>
+<a href="jsp">Servlet Jsp</a>
+</div>
 
 </body>
 </html>

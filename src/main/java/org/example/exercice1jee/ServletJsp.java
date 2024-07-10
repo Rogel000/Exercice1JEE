@@ -8,8 +8,8 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet(name = "serveltJsp",value = "/jsp")
-public class ServletJsx extends HttpServlet {
+@WebServlet(name = "servletJsp",value = "/jsp")
+public class ServletJsp extends HttpServlet {
 
     @Override
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
