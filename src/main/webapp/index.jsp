@@ -8,14 +8,10 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<p>
-<a href="text">Servlet text</a>
-</p>
-<p>
-<a href="html">Hello Html</a>
-</p>
-<p>
+
+<a href="text">Servlet text</a> <br/>
+<a href="html">Hello Html</a> <br/>
 <a href="jsp">Hello Jsp</a>
-</p>
+
 </body>
 </html>
