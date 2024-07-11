@@ -8,7 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Exercice 1</title>
+    <title>Exercice 1</title
+<%@include file="bootstrap.html"%>
 </head>
 <body>
  <h1>Ceci est du JSP</h1>
