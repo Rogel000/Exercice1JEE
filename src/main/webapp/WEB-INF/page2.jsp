@@ -11,7 +11,7 @@
     <title>Page 2</title>
 <%@include file="bootstrap.html"%>
 </head>
-<body>
+<body class="bg-danger">
 <h1>Page 2</h1>
 </body>
 </html>

@@ -11,7 +11,7 @@
     <title>Exercice 1</title
 <%@include file="bootstrap.html"%>
 </head>
-<body>
+<body class="bg-success">
  <h1>Ceci est du JSP</h1>
 </body>
 </html>

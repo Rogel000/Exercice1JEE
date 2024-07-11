@@ -3,18 +3,18 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
-
+<%@include file="WEB-INF/bootstrap.html"%>
 </head>
-<body>
+<body class="container text-bg-dark">
 <h1><%= "Hello!" %>
 </h1>
 <br/>
-<div class="liens">
-<a href="text">Servlet text</a>
-<a href="html">Servlet Html</a>
-<a href="jsp">Servlet Jsp</a>
-<a href="servlet-Jsp-2">Servlet Jsp 2</a>
-<a href="servlet-Jsp-3">Servlet Jsp 3</a>
+<div >
+<a class=" text-light " href="text">Servlet text</a>
+<a class=" text-light " href="html">Servlet Html</a>
+<a class=" text-light " href="jsp">Servlet Jsp</a>
+<a class=" text-light  " href="servlet-Jsp-2">Servlet Jsp 2</a>
+<a class=" text-light " href="servlet-Jsp-3">Servlet Jsp 3</a>
 </div>
 
 </body>

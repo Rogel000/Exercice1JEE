@@ -13,6 +13,6 @@ public class ServletJsp3 extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        req.getRequestDispatcher("WEB-INF/page3.jsp").forward(req,resp);
+        req.getRequestDispatcher("/WEB-INF/page3.jsp").forward(req,resp);
     }
 }
