@@ -13,6 +13,8 @@
 <a href="text">Servlet text</a>
 <a href="html">Servlet Html</a>
 <a href="jsp">Servlet Jsp</a>
+<a href="servlet-Jsp-2">Servlet Jsp 2</a>
+<a href="servlet-Jsp-3">Servlet Jsp 3</a>
 </div>
 
 </body>
